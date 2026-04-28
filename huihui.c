@@ -93,6 +93,10 @@ void Timer0_Init(void)		//10毫秒@11.0592MHz
 	EA = 1;					//使能全局中断
 	
 	
+
+
+
+	
 }
 
 
