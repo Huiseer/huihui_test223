@@ -29,6 +29,10 @@ void PCA_isr() interrupt 7 using 1
 			 //CR = 1;
 	   }
 		 
+
+
+
+	   
 //		 if(CCF2)
 //		 {
 //				CCF2 = 0; //清中断标志
